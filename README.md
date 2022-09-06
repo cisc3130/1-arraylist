@@ -1,6 +1,6 @@
 # ArrayList assignment
 
-Write code to
+In ArrayListPractice.java, write code to
 
 1. Declare an ArrayList of the correct type and size for what you want to put in it.
 2. Add a bunch of elements to your list.
